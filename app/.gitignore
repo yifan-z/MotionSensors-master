@@ -1,0 +1,17 @@
+
+# General Folders
+build/
+bin/
+gen/
+tmp/
+# proguard/ comment if not using proguard.
+.gradle/
+.settings/
+.idea/
+
+# General Files
+.project
+.classpath
+.DS_Store
+local.properties
+*.iml
